@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ViabilizaGD — protótipo monolítico v1.09 — versão documentada para publicação
+ViabilizaGD — protótipo monolítico v1.09
 ==================================
+
+Autor: Mike Alexandre Bicalho Dantas
 
 Ferramenta desktop em Tkinter para:
 1. selecionar a File Geodatabase (.gdb), a pasta de shapefiles e a pasta DSS;
